@@ -1,0 +1,21 @@
+.uploadExcelul {
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  overflow: hidden;
+}
+.uploadExcelli {
+  float: left;
+  margin-left: 5px;
+}
+.dropzoneli {
+  width: 80%;
+  float: left;
+  border: 1px dotted blue;
+}
+.submitExcelButton {
+  width: 15vw;
+  height: 50px;
+  margin: 1em auto;
+  margin-left: 23px;
+}
